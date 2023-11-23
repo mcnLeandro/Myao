@@ -2,6 +2,9 @@
 
 ## 今までの1日の流れ
 ### 未知の時間(~ 5:00)
+![IMG_5273](https://github.com/mcnLeandro/Myao/assets/72016706/d13633fc-2193-4516-9f4d-7c8b58c6b739)
+
+
 何をしているかわからないが、人間に合わせてくれて寝ていることが多いらしい。冬は寒いから誰かの布団に潜ってじっとしてるかも。基本2階にいると思う。
 
 ### MyriamとおはようTime(5:30 ~ )
@@ -47,8 +50,6 @@ Myriamが起きるのでそれに合わせてみゃおも活動開始、おし�
 |おもちゃ|おもちゃでシンプルに遊ぶ。手を強く噛まれる場合やそもそも噛まれたくない場合はしれっとおもちゃを口に持っていってあげると少しの間そのままおもちゃを噛んでくれる。音が出るおもちゃは音を鳴らしてあげると飛びかかってくる|
 
 
-TODO: かく遊びの写真載せる
-
 ### 朝寝
 ![IMG_5167](https://github.com/mcnLeandro/Myao/assets/72016706/48e26e3f-64b3-4b68-b26c-67161c861802)
 
@@ -56,7 +57,8 @@ TODO: かく遊びの写真載せる
 ![IMG_5262](https://github.com/mcnLeandro/Myao/assets/72016706/31d6e6f3-c136-4e17-91fb-c8c0e5a6900c)
 
 ### 昼遊び
-TOOD: かく遊びのうちの一つを載せる
+![IMG_5271](https://github.com/mcnLeandro/Myao/assets/72016706/b551958f-aabf-42e7-8fab-305c93abf277)
+
 
 ### 昼寝
 ![IMG_5227](https://github.com/mcnLeandro/Myao/assets/72016706/9cb6134d-63ed-4a5b-8f83-a6ea15939157)
@@ -65,7 +67,8 @@ TOOD: かく遊びのうちの一つを載せる
 TODO: 普通のカリカリ食事の写真載せる
 
 ### 晩遊び
-TODO: みんなと遊んでるところを載せる
+![IMG_5264](https://github.com/mcnLeandro/Myao/assets/72016706/e509c9a6-15f9-495a-88dc-34d1b07681d5)
+
 
 ### 晩寝
 ![IMG_5191](https://github.com/mcnLeandro/Myao/assets/72016706/665764a4-5a2d-4b2a-8aee-35c5e6104223)
@@ -73,8 +76,12 @@ TODO: みんなと遊んでるところを載せる
 ### 深夜ごはん(12:00)
 TODO: 普通のカリカリ食事の写真載せる
 TODO: 晩御飯はあえてカリカリがいい理由を書く
+
 ### 深夜遊び
-TODO: マウス遊びの写真を載せる
+![IMG_5263](https://github.com/mcnLeandro/Myao/assets/72016706/54b83e69-e91e-4463-a5cb-e2d590d1b41c)
+
 時間帯的にも人間が相手するのはきついので、動くおもちゃを用意する。
 たまには人間が遊んであげることも大事で一緒にいるだけで落ち着く
+
 ### 未知の時間(2:00 ~)
+![IMG_5270](https://github.com/mcnLeandro/Myao/assets/72016706/3b826dec-6e65-4af6-b913-4b129d740b06)
